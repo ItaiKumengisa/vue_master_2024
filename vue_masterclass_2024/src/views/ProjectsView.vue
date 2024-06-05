@@ -3,7 +3,7 @@
 
 <template>
     <div>
-        <h1> Home Page</h1>
-        <a href="/projects"> Projects page</a>
+        <h1> Projects </h1>
+        <a href="/"> Go To Home</a>
     </div>
 </template>
